@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "homepage": "C7110Emir.github.io",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.2",
@@ -8,6 +9,8 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "bootstrap": "^5.0.2",
+    "gh-pages": "^0.11.0",
+    "ghpages": "^0.0.10",
     "intersection-observer": "^0.12.0",
     "react": "^17.0.2",
     "react-bootstrap": "^2.0.0-beta.4",
@@ -23,7 +26,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
