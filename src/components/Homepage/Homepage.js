@@ -7,7 +7,6 @@ import coffeeimg from '../../assets/coffeeimage.jpg'
 import handshake from '../../assets/handshake.jpg'
 import homeimage from '../../assets/homeimage.jpg'
 import office from '../../assets/office.jpg'
-import shoppingcart from '../../assets/shoppingcart.jpg'
 import data from '../../api.js'
 import { Carousel, Accordion } from 'react-bootstrap'
 
@@ -46,9 +45,6 @@ const Homepage = () => {
                         <h3>HOTEL​</h3>
                     </div>
                     <div >
-                        <img src={shoppingcart} alt="SHOPPINGS"/>
-                        <h3>SHOPPING</h3>
-                    
                         <img src={office} className={styles.div5} alt="OFFICES​"/>
                         <h3>OFFICES​</h3>
                     </div>

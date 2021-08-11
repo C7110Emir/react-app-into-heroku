@@ -38,16 +38,16 @@ import vaziyet7 from './assets/20190123_174223.jpg'
 
 
 const data = [
-{name:'Garden Park Village', image:[vaziyet,vaziyet2,vaziyet3,vaziyet4,vaziyet5,vaziyet6,vaziyet7], city: "Matola/Maputo", type:"Vivenda(Villa) - 52un",land:"60.000 sqm", carea: "16.000 sqm​",startdate:"2009",enddate:"2013", state:"100%"},
-{name:"Garden Park Residences",image:[gardenparkresidences,gardenparkresidences2,gardenparkresidences3],city:"Malota/Maputo", type:"Residence(Flats) - 30 un.​", land:"10.000 sqm​", carea:"9.000 sqm​", startdate:"2013",enddate:"2017",state:"100%"},
-{name:"Garden Park Premium", image:[premium,premium2,premium3], city:"Malota/Maputo", type:'Vendido (Villa) - 34 un',land:"38.000 sqm​",carea:"19.200 sqm​", startdate:"2015", enddate:"2021", state:"75%"},
-{name: "Matola Trade Center", image:[trade,trade2,trade3],city:"Matola/Maputo",type:'Warehouse',land:"40.000 sqm​",carea:"21.750 sqm​",startdate:"2011", enddate:"2013",state:"100%"},
-{name:"The Corner - Shopping/Hotel/Office", image:[corner,sh,corner3,corner4,corner5,corner6],city:"Matola/Maputo", type:"Shopping-Hotel(4 stars) Office Building", land:"10.000 sqm", carea:"10.000 sqm", startdate:"2018",enddate:"2022",state:"40%"},
-{name:"Machava Trade Center", image:[machava],city:'Matola/Maputo',type:"Warehouse/Gas Station/Supermarket/Stores",land:"50.000 sqm",carea:"24.000 sqm",startdate:"2019",enddate:"2022",state:"5%"},
-{name:"Lounge(AV.Friedrich Engels - Apartments)", image:[lounge,lounge2,lounge3,lounge4,lounge5],city:"Matola/Maputo", type:"Apartments - 14 Flats",land:"2.000 sqm", carea:"8.000sqm (4.000 sqm parking,4.000 sqm apartment",startdate:"2019",enddate:"2021",state:"50%"},
-{name:"Laulane Park - Condominium", image:[lau,lau2,lau3], city:"Maputo", type:"Apartments - 48 Unit", land:"10.000 sqm", carea:"6.000 sqm", startdate:"2018", enddate:"2021",state:"70%"},
-{name:"Av.Marginal - Apartments(Subcontractor)", image:[marginal,marginal2,marginal3], city:"Maputo", type:"Apartment - 7 Units",land:"2.000 sqm",carea:"2.500 sqm", startdate:"2018", enddate:"2021",state:"70%"},
-{name:"Condominium Palmar", image:[palmar,palmar2,palmar3],city:'Maputo', type: "Apartments - 75 Units", land:"6.000 sqm",carea:"13.500 sqm", startdate:"2020", enddate:"2020",state:"30%"}
+{name:'Garden Park Village', image:[vaziyet,vaziyet2,vaziyet3,vaziyet4,vaziyet5,vaziyet6,vaziyet7], city: "Matola/Maputo", type:"Vivenda(Villa) - 52un",land:"60.000 sqm", carea: "16.000 sqm​",startdate:"2009",enddate:"2013", state:"Completed"},
+{name:"Garden Park Residences",image:[gardenparkresidences,gardenparkresidences2,gardenparkresidences3],city:"Malota/Maputo", type:"Residence(Flats) - 30 un.​", land:"10.000 sqm​", carea:"9.000 sqm​", startdate:"2013",enddate:"2017",state:"Completed"},
+{name:"Garden Park Premium", image:[premium,premium2,premium3], city:"Malota/Maputo", type:'Vendido (Villa) - 34 un',land:"38.000 sqm​",carea:"19.200 sqm​", startdate:"2015", enddate:"2021", state:"Under Construction"},
+{name: "Matola Trade Center", image:[trade,trade2,trade3],city:"Matola/Maputo",type:'Warehouse',land:"40.000 sqm​",carea:"21.750 sqm​",startdate:"2011", enddate:"2013",state:"Completed"},
+{name:"The Corner - Shopping/Hotel/Office", image:[corner,sh,corner3,corner4,corner5,corner6],city:"Matola/Maputo", type:"Shopping-Hotel(4 stars) Office Building", land:"10.000 sqm", carea:"10.000 sqm", startdate:"2018",enddate:"2022",state:"Under Construction"},
+{name:"Machava Trade Center", image:[machava],city:'Matola/Maputo',type:"Warehouse/Gas Station/Supermarket/Stores",land:"50.000 sqm",carea:"24.000 sqm",startdate:"2019",enddate:"2022",state:"Under Construction"},
+{name:"Lounge(AV.Friedrich Engels - Apartments)", image:[lounge,lounge2,lounge3,lounge4,lounge5],city:"Matola/Maputo", type:"Apartments - 14 Flats",land:"2.000 sqm", carea:"8.000sqm (4.000 sqm parking,4.000 sqm apartment",startdate:"2019",enddate:"2021",state:"Under Construction"},
+{name:"Laulane Park - Condominium", image:[lau,lau2,lau3], city:"Maputo", type:"Apartments - 48 Unit", land:"10.000 sqm", carea:"6.000 sqm", startdate:"2018", enddate:"2021",state:"Under Construction"},
+{name:"Av.Marginal - Apartments(Subcontractor)", image:[marginal,marginal2,marginal3], city:"Maputo", type:"Apartment - 7 Units",land:"2.000 sqm",carea:"2.500 sqm", startdate:"2018", enddate:"2021",state:"Under Construction"},
+{name:"Condominium Palmar", image:[palmar,palmar2,palmar3],city:'Maputo', type: "Apartments - 75 Units", land:"6.000 sqm",carea:"13.500 sqm", startdate:"2020", enddate:"2020",state:"Under Construction"}
 
 ]
 
