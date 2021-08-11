@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://C7110Emir.github.io/react-app-into-heroku",
+  "homepage": "https://ataconstrucoes.net",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.2",
