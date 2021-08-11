@@ -1,0 +1,42 @@
+*{
+    text-align:center
+}
+
+.vaziyet {
+  width: 100vw;
+}
+.ourprojects{
+    margin-top:3em;
+    color:white;
+    font-size:4rem;
+    letter-spacing:2px;
+    text-align:center
+}
+
+.gridDiv{
+  color:white;
+  display:flex;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  justify-content:space-around;
+  align-items: center;
+  text-align:center;
+  margin-right: 2rem;
+}
+
+.div1, .div3, .div5{
+  margin-top: 5rem;
+}
+
+.ourprojects{
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.datalist{
+  background-color: rgba(0,0,0,0.5);
+}
+.listgroups{
+  background-color: black;
+  color: white;
+}

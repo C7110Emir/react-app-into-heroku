@@ -1,0 +1,27 @@
+.whoarewediv{
+    margin:5rem;
+    background: linear-gradient(#292c35,#8e785e);
+    color: white;
+    padding: 1rem;
+}
+.whowearedivport>h4{
+    line-height: 3em  
+}
+.whowearediveng>h4{
+    line-height: 3em
+}
+.whowearedivport{
+    margin-top: 5rem
+}
+.formelement{
+    background: linear-gradient(#bdc3c7,#2c3e50);
+    margin: 5rem;
+}
+.contactustext{
+    text-align:left;
+    padding:3rem
+}
+
+.fullNametext{
+   width:90%;
+}
