@@ -10,10 +10,14 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import { useEffect } from 'react';
 import Whoweare from './components/whoweare/Whoweare';
 import Ourmission from './components/ourmission/Ourmission';
 
 function App() {
+  useEffect(() => {
+    document.title = "ATA Construcoes"
+ }, []);
   return (
     
       <Router>
